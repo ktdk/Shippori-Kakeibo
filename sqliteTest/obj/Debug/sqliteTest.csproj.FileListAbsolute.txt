@@ -1,0 +1,13 @@
+C:\Documents and Settings\yagi\My Documents\Visual Studio 2008\Projects\sqliteTest\sqliteTest\bin\Debug\sqliteTest.exe.config
+C:\Documents and Settings\yagi\My Documents\Visual Studio 2008\Projects\sqliteTest\sqliteTest\bin\Debug\sqliteTest.exe
+C:\Documents and Settings\yagi\My Documents\Visual Studio 2008\Projects\sqliteTest\sqliteTest\bin\Debug\sqliteTest.pdb
+C:\Documents and Settings\yagi\My Documents\Visual Studio 2008\Projects\sqliteTest\sqliteTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yagi\My Documents\Visual Studio 2008\Projects\sqliteTest\sqliteTest\obj\Debug\sqliteTest.Controls.CustomButton.resources
+C:\Documents and Settings\yagi\My Documents\Visual Studio 2008\Projects\sqliteTest\sqliteTest\obj\Debug\sqliteTest.loginForm.resources
+C:\Documents and Settings\yagi\My Documents\Visual Studio 2008\Projects\sqliteTest\sqliteTest\obj\Debug\sqliteTest.MenuForm.resources
+C:\Documents and Settings\yagi\My Documents\Visual Studio 2008\Projects\sqliteTest\sqliteTest\obj\Debug\sqliteTest.Properties.Resources.resources
+C:\Documents and Settings\yagi\My Documents\Visual Studio 2008\Projects\sqliteTest\sqliteTest\obj\Debug\sqliteTest.StartUp.resources
+C:\Documents and Settings\yagi\My Documents\Visual Studio 2008\Projects\sqliteTest\sqliteTest\obj\Debug\sqliteTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\yagi\My Documents\Visual Studio 2008\Projects\sqliteTest\sqliteTest\obj\Debug\sqliteTest.exe
+C:\Documents and Settings\yagi\My Documents\Visual Studio 2008\Projects\sqliteTest\sqliteTest\obj\Debug\sqliteTest.pdb
+C:\Documents and Settings\yagi\My Documents\Visual Studio 2008\Projects\sqliteTest\sqliteTest\obj\Debug\sqliteTest.MyButton.resources
